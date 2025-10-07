@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_Get Pet by id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af2a1971-4010-472e-bebe-8b231bb84874</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f086e4b-f82e-423c-a8eb-967d2e2301bc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>3f086e4b-f82e-423c-a8eb-967d2e2301bc</id>
+      <masked>false</masked>
+      <name>petId</name>
+   </variable>
+</TestCaseEntity>

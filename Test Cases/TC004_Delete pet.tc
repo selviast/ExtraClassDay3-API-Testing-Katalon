@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_Delete pet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5177cdec-acf6-4b50-b739-46ae025fb3a4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>903604a1-e956-4a7b-9c68-7aa9c6f5bb85</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>903604a1-e956-4a7b-9c68-7aa9c6f5bb85</id>
+      <masked>false</masked>
+      <name>petId</name>
+   </variable>
+</TestCaseEntity>
